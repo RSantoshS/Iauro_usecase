@@ -3,7 +3,7 @@ FROM httpd:2.4
 MAINTAINER <santoshrathod1454019@gmail.com>
 
 LABEL version="1.0"
-LABEL description="This is the simple web application to test wether entered number is prime or not and it's deployed on "http://ec2-13-234-75-15.ap-south-1.compute.amazonaws.com/""
+LABEL description="This is the simple web application to test wether entered number is prime or not"
 
 #configuration files are present in All_Config/ directory.
 #Below steps copy all the configuration files from All_Config/ directory.
